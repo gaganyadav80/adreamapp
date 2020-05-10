@@ -1,0 +1,67 @@
+# data for fertiliser
+
+   Time before flood (days)     Soil moisture    Uptake of applied N    N Use Efficiency*(%)   Grain Yeild 
+                                                  pounds/a  kg/ha                              bu/A kg/Ha
+
+    10                           dry                85       95           71                  	124     6255                                
+    10                           mud                46       52            42                 	102     5145
+    5                            dry                100      112          82                  	129     6507
+    5                           mud                 71       80           59                  	105     5296
+    0                           dry                 107      120          83                  	132     6659
+    0                           mud                  68      76           64                  	111     5599
+    0                           flooded              37      41           31                  	75      3783
+
+
+
+
+ Variety
+
+
+Total N
+
+Preflood
+
+Mid-season
+
+Cypress
+
+168
+
+101
+
+34+34
+
+Drew
+
+151
+
+84
+
+34+34
+
+Lamont
+
+202
+
+135
+
+34+34
+
+Cocdrie
+
+168
+
+101
+
+34+34
+
+ 
+
+
+
+
+
+
+
+
+
